@@ -99,10 +99,10 @@ body {
 .plate::after {
   content: "";
   position: absolute;
-  left: 50px;
-  right: 50px;
-  bottom: 50px;
-  top: 50px;
+  left: 90px;
+  right: 90px;
+  bottom: 20px;
+  top: 70px;
   background: linear-gradient(rgba(0, 0, 0, 0.1) 25%, transparent, transparent);
 
   border-radius: 50%;

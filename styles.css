@@ -10,6 +10,7 @@ body {
   align-items: center;
   min-height: 100vh;
   background-color: #067655;
+  overflow: hidden;
 }
 .container {
   position: relative;
